@@ -1,0 +1,1 @@
+{"name":"Local: max_element","url":"e:\\Just CP\\c++\\max_element.cpp","tests":[{"id":1680197151438,"input":"3\n13 2 8","output":""},{"id":1680197203429,"input":"1\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\c++\\max_element.cpp","group":"local","local":true}

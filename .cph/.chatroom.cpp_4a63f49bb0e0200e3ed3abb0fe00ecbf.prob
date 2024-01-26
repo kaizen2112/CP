@@ -1,0 +1,1 @@
+{"name":"Local: chatroom","url":"e:\\Just CP\\c++\\chatroom.cpp","tests":[{"id":1679763062866,"input":"ahhellllloou\n","output":""},{"id":1679763072681,"input":"hlelo\n","output":""},{"id":1679763608531,"input":"heol","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\c++\\chatroom.cpp","group":"local","local":true}

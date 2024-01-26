@@ -1,0 +1,1 @@
+{"name":"Local: xorinacci","url":"e:\\Just CP\\c++\\xorinacci.cpp","tests":[{"id":1692970606596,"input":"3\n3 4 2\n4 5 0\n325 265 1231232","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\c++\\xorinacci.cpp","group":"local","local":true}
