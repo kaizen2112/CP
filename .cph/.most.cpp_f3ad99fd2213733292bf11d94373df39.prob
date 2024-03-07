@@ -1,0 +1,1 @@
+{"name":"Local: most","url":"e:\\Just CP\\CP\\most.cpp","tests":[{"id":1708353528118,"input":"8\nABABB\nABABA\nBBBAB\nAAAAA\nBBBBB\nBABAA\nAAAAB\nBAAAA\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\CP\\most.cpp","group":"local","local":true}

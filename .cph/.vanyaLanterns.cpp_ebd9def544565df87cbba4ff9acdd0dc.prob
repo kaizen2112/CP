@@ -1,0 +1,1 @@
+{"name":"Local: vanyaLanterns","url":"e:\\Just CP\\CP\\vanyaLanterns.cpp","tests":[{"id":1708179692899,"input":"7 15\n15 5 3 7 9 14 0","output":""},{"id":1708179723689,"input":"2 5\n2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\CP\\vanyaLanterns.cpp","group":"local","local":true}

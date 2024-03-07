@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+#define f(i,n) for(int i=0;i<n;i++)
+using namespace std;
+void sol()
+{
+     long long a, b, x;
+     cin>>a>>b;
+     if(b%a==0) {
+        x = b*b/a;
+     }
+     else {
+        x = a*b/__gcd(a,b);
+     }
+     cout<<x<<endl;
+}
+int main()
+{
+  int t;
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cin>>t;
+  while(t--)
+  {
+    sol();
+  }
+}

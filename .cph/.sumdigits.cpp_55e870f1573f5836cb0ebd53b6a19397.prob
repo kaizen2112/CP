@@ -1,0 +1,1 @@
+{"name":"Local: sumdigits","url":"e:\\Just CP\\CP\\sumdigits.cpp","tests":[{"id":1708358926183,"input":"7\n12\n1\n2\n3\n1434\n2024\n200000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\CP\\sumdigits.cpp","group":"local","local":true}

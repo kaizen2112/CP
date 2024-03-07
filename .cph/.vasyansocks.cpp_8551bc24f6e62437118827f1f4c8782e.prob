@@ -1,0 +1,1 @@
+{"name":"Local: vasyansocks","url":"e:\\Just CP\\CP\\vasyansocks.cpp","tests":[{"id":1708178024734,"input":"2\n2 2\n9 3\n","output":""},{"id":1708178547991,"input":"2 2","output":""},{"id":1708178553388,"input":"9 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\CP\\vasyansocks.cpp","group":"local","local":true}

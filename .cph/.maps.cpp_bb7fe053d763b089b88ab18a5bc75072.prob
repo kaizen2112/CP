@@ -1,0 +1,1 @@
+{"name":"Local: maps","url":"e:\\Just CP\\CP\\maps.cpp","tests":[{"id":1708451050181,"input":"1\n8 \nabc \ndef\nabc\nghj\njkl\nghj\nghj\nabc","output":""},{"id":1708452263649,"input":"5\naab\nsas\njkk\njll\nmmn","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Just CP\\CP\\maps.cpp","group":"local","local":true}
